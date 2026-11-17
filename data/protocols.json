@@ -1,0 +1,491 @@
+{
+ "760": {
+  "versions": [
+   "1.19.2"
+  ],
+  "play_cb": {
+   "container_close": 16,
+   "container_set_content": 17,
+   "container_set_data": 18,
+   "container_set_slot": 19,
+   "disconnect": 25,
+   "forget_level_chunk": 28,
+   "level_chunk_with_light": 33,
+   "open_screen": 45
+  },
+  "play_sb": {
+   "container_button_click": 10,
+   "container_click": 11,
+   "container_close": 12
+  },
+  "config_cb": {},
+  "config_sb": {}
+ },
+ "761": {
+  "versions": [
+   "1.19.3"
+  ],
+  "play_cb": {
+   "container_close": 15,
+   "container_set_content": 16,
+   "container_set_data": 17,
+   "container_set_slot": 18,
+   "disconnect": 23,
+   "forget_level_chunk": 27,
+   "level_chunk_with_light": 32,
+   "open_screen": 44
+  },
+  "play_sb": {
+   "container_button_click": 9,
+   "container_click": 10,
+   "container_close": 11
+  },
+  "config_cb": {},
+  "config_sb": {}
+ },
+ "762": {
+  "versions": [
+   "1.19.4"
+  ],
+  "play_cb": {
+   "container_close": 17,
+   "container_set_content": 18,
+   "container_set_data": 19,
+   "container_set_slot": 20,
+   "disconnect": 26,
+   "forget_level_chunk": 30,
+   "level_chunk_with_light": 36,
+   "open_screen": 48
+  },
+  "play_sb": {
+   "container_button_click": 10,
+   "container_click": 11,
+   "container_close": 12
+  },
+  "config_cb": {},
+  "config_sb": {}
+ },
+ "763": {
+  "versions": [
+   "1.20",
+   "1.20.1"
+  ],
+  "play_cb": {
+   "container_close": 17,
+   "container_set_content": 18,
+   "container_set_data": 19,
+   "container_set_slot": 20,
+   "disconnect": 26,
+   "forget_level_chunk": 30,
+   "level_chunk_with_light": 36,
+   "open_screen": 48
+  },
+  "play_sb": {
+   "container_button_click": 10,
+   "container_click": 11,
+   "container_close": 12
+  },
+  "config_cb": {},
+  "config_sb": {}
+ },
+ "764": {
+  "versions": [
+   "1.20.2"
+  ],
+  "play_cb": {
+   "container_close": 18,
+   "container_set_content": 19,
+   "container_set_data": 20,
+   "container_set_slot": 21,
+   "disconnect": 27,
+   "forget_level_chunk": 31,
+   "level_chunk_with_light": 37,
+   "open_screen": 49,
+   "start_configuration": 101
+  },
+  "play_sb": {
+   "configuration_acknowledged": 11,
+   "container_button_click": 12,
+   "container_click": 13,
+   "container_close": 14
+  },
+  "config_cb": {
+   "finish_configuration": 2
+  },
+  "config_sb": {
+   "finish_configuration": 2
+  }
+ },
+ "765": {
+  "versions": [
+   "1.20.3",
+   "1.20.4"
+  ],
+  "play_cb": {
+   "container_close": 18,
+   "container_set_content": 19,
+   "container_set_data": 20,
+   "container_set_slot": 21,
+   "disconnect": 27,
+   "forget_level_chunk": 31,
+   "level_chunk_with_light": 37,
+   "open_screen": 49,
+   "start_configuration": 103
+  },
+  "play_sb": {
+   "configuration_acknowledged": 11,
+   "container_button_click": 12,
+   "container_click": 13,
+   "container_close": 14
+  },
+  "config_cb": {
+   "finish_configuration": 2
+  },
+  "config_sb": {
+   "finish_configuration": 2
+  }
+ },
+ "766": {
+  "versions": [
+   "1.20.5",
+   "1.20.6"
+  ],
+  "play_cb": {
+   "container_close": 18,
+   "container_set_content": 19,
+   "container_set_data": 20,
+   "container_set_slot": 21,
+   "disconnect": 29,
+   "forget_level_chunk": 33,
+   "level_chunk_with_light": 39,
+   "open_screen": 51,
+   "start_configuration": 105
+  },
+  "play_sb": {
+   "configuration_acknowledged": 12,
+   "container_button_click": 13,
+   "container_click": 14,
+   "container_close": 15
+  },
+  "config_cb": {
+   "finish_configuration": 3
+  },
+  "config_sb": {
+   "finish_configuration": 3
+  }
+ },
+ "767": {
+  "versions": [
+   "1.21",
+   "1.21.1"
+  ],
+  "play_cb": {
+   "open_screen": 51,
+   "container_close": 18,
+   "container_set_content": 19,
+   "container_set_slot": 21,
+   "container_set_data": 20,
+   "start_configuration": 105,
+   "disconnect": 29,
+   "level_chunk_with_light": 39,
+   "forget_level_chunk": 33
+  },
+  "play_sb": {
+   "container_click": 14,
+   "container_close": 15,
+   "container_button_click": 13,
+   "configuration_acknowledged": 12
+  },
+  "config_cb": {
+   "finish_configuration": 3
+  },
+  "config_sb": {
+   "finish_configuration": 3
+  }
+ },
+ "768": {
+  "versions": [
+   "1.21.2",
+   "1.21.3"
+  ],
+  "play_cb": {
+   "open_screen": 53,
+   "container_close": 18,
+   "container_set_content": 19,
+   "container_set_slot": 21,
+   "container_set_data": 20,
+   "start_configuration": 112,
+   "disconnect": 29,
+   "level_chunk_with_light": 40,
+   "forget_level_chunk": 34
+  },
+  "play_sb": {
+   "container_click": 16,
+   "container_close": 17,
+   "container_button_click": 15,
+   "configuration_acknowledged": 14
+  },
+  "config_cb": {
+   "finish_configuration": 3
+  },
+  "config_sb": {
+   "finish_configuration": 3
+  }
+ },
+ "769": {
+  "versions": [
+   "1.21.4"
+  ],
+  "play_cb": {
+   "open_screen": 53,
+   "container_close": 18,
+   "container_set_content": 19,
+   "container_set_slot": 21,
+   "container_set_data": 20,
+   "start_configuration": 112,
+   "disconnect": 29,
+   "level_chunk_with_light": 40,
+   "forget_level_chunk": 34
+  },
+  "play_sb": {
+   "container_click": 16,
+   "container_close": 17,
+   "container_button_click": 15,
+   "configuration_acknowledged": 14
+  },
+  "config_cb": {
+   "finish_configuration": 3
+  },
+  "config_sb": {
+   "finish_configuration": 3
+  }
+ },
+ "770": {
+  "versions": [
+   "1.21.5"
+  ],
+  "play_cb": {
+   "open_screen": 52,
+   "container_close": 17,
+   "container_set_content": 18,
+   "container_set_slot": 20,
+   "container_set_data": 19,
+   "start_configuration": 111,
+   "disconnect": 28,
+   "level_chunk_with_light": 39,
+   "forget_level_chunk": 33
+  },
+  "play_sb": {
+   "container_click": 16,
+   "container_close": 17,
+   "container_button_click": 15,
+   "configuration_acknowledged": 14
+  },
+  "config_cb": {
+   "finish_configuration": 3
+  },
+  "config_sb": {
+   "finish_configuration": 3
+  }
+ },
+ "771": {
+  "versions": [
+   "1.21.6"
+  ],
+  "play_cb": {
+   "open_screen": 52,
+   "container_close": 17,
+   "container_set_content": 18,
+   "container_set_slot": 20,
+   "container_set_data": 19,
+   "start_configuration": 111,
+   "disconnect": 28,
+   "level_chunk_with_light": 39,
+   "forget_level_chunk": 33
+  },
+  "play_sb": {
+   "container_click": 17,
+   "container_close": 18,
+   "container_button_click": 16,
+   "configuration_acknowledged": 15
+  },
+  "config_cb": {
+   "finish_configuration": 3
+  },
+  "config_sb": {
+   "finish_configuration": 3
+  }
+ },
+ "772": {
+  "versions": [
+   "1.21.7",
+   "1.21.8"
+  ],
+  "play_cb": {
+   "open_screen": 52,
+   "container_close": 17,
+   "container_set_content": 18,
+   "container_set_slot": 20,
+   "container_set_data": 19,
+   "start_configuration": 111,
+   "disconnect": 28,
+   "level_chunk_with_light": 39,
+   "forget_level_chunk": 33
+  },
+  "play_sb": {
+   "container_click": 17,
+   "container_close": 18,
+   "container_button_click": 16,
+   "configuration_acknowledged": 15
+  },
+  "config_cb": {
+   "finish_configuration": 3
+  },
+  "config_sb": {
+   "finish_configuration": 3
+  }
+ },
+ "773": {
+  "versions": [
+   "1.21.10",
+   "1.21.9"
+  ],
+  "play_cb": {
+   "open_screen": 57,
+   "container_close": 17,
+   "container_set_content": 18,
+   "container_set_slot": 20,
+   "container_set_data": 19,
+   "start_configuration": 116,
+   "disconnect": 32,
+   "level_chunk_with_light": 44,
+   "forget_level_chunk": 37
+  },
+  "play_sb": {
+   "container_click": 17,
+   "container_close": 18,
+   "container_button_click": 16,
+   "configuration_acknowledged": 15
+  },
+  "config_cb": {
+   "finish_configuration": 3
+  },
+  "config_sb": {
+   "finish_configuration": 3
+  }
+ },
+ "774": {
+  "versions": [
+   "1.21.11"
+  ],
+  "play_cb": {
+   "open_screen": 57,
+   "container_close": 17,
+   "container_set_content": 18,
+   "container_set_slot": 20,
+   "container_set_data": 19,
+   "start_configuration": 116,
+   "disconnect": 32,
+   "level_chunk_with_light": 44,
+   "forget_level_chunk": 37
+  },
+  "play_sb": {
+   "container_click": 17,
+   "container_close": 18,
+   "container_button_click": 16,
+   "configuration_acknowledged": 15
+  },
+  "config_cb": {
+   "finish_configuration": 3
+  },
+  "config_sb": {
+   "finish_configuration": 3
+  }
+ },
+ "775": {
+  "versions": [
+   "26.1",
+   "26.1.1",
+   "26.1.2"
+  ],
+  "play_cb": {
+   "open_screen": 59,
+   "container_close": 17,
+   "container_set_content": 18,
+   "container_set_slot": 20,
+   "container_set_data": 19,
+   "start_configuration": 118,
+   "disconnect": 32,
+   "level_chunk_with_light": 45,
+   "forget_level_chunk": 37
+  },
+  "play_sb": {
+   "container_click": 18,
+   "container_close": 19,
+   "container_button_click": 17,
+   "configuration_acknowledged": 16
+  },
+  "config_cb": {
+   "finish_configuration": 3
+  },
+  "config_sb": {
+   "finish_configuration": 3
+  }
+ },
+ "776": {
+  "versions": [
+   "26.2"
+  ],
+  "play_cb": {
+   "open_screen": 59,
+   "container_close": 17,
+   "container_set_content": 18,
+   "container_set_slot": 20,
+   "container_set_data": 19,
+   "start_configuration": 118,
+   "disconnect": 32,
+   "level_chunk_with_light": 45,
+   "forget_level_chunk": 37
+  },
+  "play_sb": {
+   "container_click": 18,
+   "container_close": 19,
+   "container_button_click": 17,
+   "configuration_acknowledged": 16
+  },
+  "config_cb": {
+   "finish_configuration": 3
+  },
+  "config_sb": {
+   "finish_configuration": 3
+  }
+ },
+ "777": {
+  "versions": [
+   "26.3"
+  ],
+  "play_cb": {
+   "open_screen": 60,
+   "container_close": 17,
+   "container_set_content": 18,
+   "container_set_slot": 20,
+   "container_set_data": 19,
+   "start_configuration": 120,
+   "disconnect": 32,
+   "level_chunk_with_light": 46,
+   "forget_level_chunk": 38
+  },
+  "play_sb": {
+   "container_click": 18,
+   "container_close": 19,
+   "container_button_click": 17,
+   "configuration_acknowledged": 16
+  },
+  "config_cb": {
+   "finish_configuration": 3
+  },
+  "config_sb": {
+   "finish_configuration": 3
+  }
+ }
+}
